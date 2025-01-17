@@ -8,13 +8,11 @@ Welcome to my GitHub profile!
 - 📚 **Currently Studying**: Computer Science at the University of Texas at San Antonio (UTSA).  
 - 🌟 **Passionate About**:  
   - Building innovative embedded systems like my outdoor grass-cutting robot.  
-  - Exploring optimization and reinforcement learning in AI.  
+  
 
 ## Current Projects  
-
-- 🎮 **Game Development**: Working on a 2D platformer game with features like weapon selection, inventory management, and dynamic collision detection.  
 - 🤖 **Embedded Systems**: Designing an outdoor Roomba-like robot with custom mapping algorithms.  
-- 📱 **Mobile Development**: Co-leading a club project to create an Android app for classroom navigation using OpenStreetMap integration.  
+- 📱 **Mobile Development**: Co-leading a club project to create an Android app for classroom navigation using OpenStreetMap integration(Semi- Complete).  
 
 ## Goals  
 
