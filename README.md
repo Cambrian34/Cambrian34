@@ -13,8 +13,8 @@ Welcome to my GitHub profile!
   
 
 ## Current Projects  
-- 🤖 **Embedded Systems**: Designing an outdoor Roomba-like robot with custom mapping algorithms.  
-- 📱 **Mobile Development**: Co-leading a club project to create an Android app for classroom navigation using OpenStreetMap integration(Semi- Complete).  
+- 🤖 **Embedded Systems**: Designing an outdoor Roomba-like robot with custom mapping algorithm (Private Repo).  
+- 🔧 **Custom LDO6 LiDAR Sensor System**: Developing a custom system for integrating and optimizing the performance of an LDO6 LiDAR sensor for precise distance measurement and obstacle detection.
 
 ## Goals  
 
