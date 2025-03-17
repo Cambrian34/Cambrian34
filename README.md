@@ -7,7 +7,9 @@ Welcome to my GitHub profile!
 - 🎮 **Interests**: Game design, embedded systems, and creating efficient software solutions.  
 - 📚 **Currently Studying**: Computer Science at the University of Texas at San Antonio (UTSA).  
 - 🌟 **Passionate About**:  
-  - Building innovative embedded systems like my outdoor grass-cutting robot.  
+  - **Game Design**: Creating unique games and optimizing game performance.  
+  - **Embedded Systems**: Designing custom hardware and software solutions for robotics.  
+  -
   
 
 ## Current Projects  
