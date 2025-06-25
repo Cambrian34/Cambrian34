@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 ## Research Proposal
 
-- ** Bio-Inspired Resource-Aware Task Allocation in Swarm Explorative Robotics Using Multi-Sensor Coordination **
+- **Bio-Inspired Resource-Aware Task Allocation in Swarm Explorative Robotics Using Multi-Sensor Coordination**
 
 https://www.overleaf.com/read/zwvkvfqfjnhd#f38da3
   
