@@ -10,6 +10,13 @@ Welcome to my GitHub profile!
   - **Game Design**: Creating unique games and optimizing game performance.  
   - **Embedded Systems**: Designing custom hardware and software solutions for robotics.  
   -
+
+
+## Research Proposal
+
+- ** Bio-Inspired Resource-Aware Task Allocation in Swarm Explorative Robotics Using Multi-Sensor Coordination **
+
+https://www.overleaf.com/read/zwvkvfqfjnhd#f38da3
   
 
 ## Current Projects  
